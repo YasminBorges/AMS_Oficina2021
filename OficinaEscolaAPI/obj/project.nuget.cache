@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1J91ycnKQg6x/gWwKp4jbAZe4KP0+mHUgDTu05+roWONLCiuAzDIi9d7wAcHwa8hehWi0Q7j+YMnZsdCe8zHqg==",
+  "success": true,
+  "projectFilePath": "/home/usuario/projetos/Oficina2021/OficinaEscolaAPI/OficinaEscolaAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/usuario/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/usuario/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/usuario/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/usuario/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/usuario/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/usuario/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
